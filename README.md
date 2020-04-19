@@ -19,6 +19,6 @@ It is simple. Just follow the steps.
 > Keep the points constraint in mind. You have got only 1000 points.
 > When you are done, go to manage teams and click on save team.
 > Now it's your opponent's turn to make the team.
-> After the opponent's saves its team, go to manage teams and click on Evaluate Score.
+> After the opponent saves its team, go to manage teams and click on Evaluate Score.
 > You will see a pop-up window. Select the team and match in which you want your team to play.
 > Click on Calculate. On the basis of each player's performance, score will be generated. Compare the scores.
